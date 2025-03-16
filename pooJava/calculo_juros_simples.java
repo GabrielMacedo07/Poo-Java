@@ -19,7 +19,7 @@ public class calculo_juros_simples {
 		
 		double resultado = (valor_emprestado * taxa * meses)/100;
 		
-		System.out.println("Você pagará R$"+resultado+" de juros");
+		System.out.printf("Você pagará R$%.2f de juros\n", resultado);
 		scanner.close();
 	}
 }
