@@ -17,6 +17,8 @@ public class calculo_de_media {
 		float nota3 = scanner.nextFloat();
 		
 		float resultado = (nota1 + nota2 + nota3)/3;
+
+		System.out.println("A média final do aluno foi: " + resultado);
 		
 		if (resultado >= 7) {
 			System.out.println("Aluno foi aprovado!!!");
