@@ -27,6 +27,14 @@ Exercícios diversos sobre POO:
 ### `pooJava`
 Espaço reservado para futuras implementações ou atividades gerais da disciplina.
 
+Conjunto de exercícios simples para treinar lógica de programação e conceitos básicos da linguagem Java. Esta pasta contém programas utilitários, como:
+- **calculadora_simples.java:** Realiza operações básicas como soma, subtração, multiplicação e divisão.
+- **calculo_de_media.java:** Calcula a média de notas de um aluno.
+- **calculo_do_imc.java:** Calcula o Índice de Massa Corporal (IMC) com base na altura e no peso.
+- **calculo_juros_simples.java:** Aplica a fórmula de juros simples para determinar o montante final.
+  
+Esses exercícios ajudam a reforçar o uso de variáveis, operadores, entrada de dados e saída formatada em Java.
+
 ## 🎯 Objetivo
 
 Consolidar os conhecimentos sobre os **pilares da Programação Orientada a Objetos**, sendo eles:
