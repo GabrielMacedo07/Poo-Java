@@ -36,17 +36,6 @@ Consolidar os conhecimentos sobre os **pilares da Programação Orientada a Obje
 - **Polimorfismo**
 - **Abstração**
 
-## ▶️ Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/GabrielMacedo07/Poo-Java.git
-   ```
-
-2. Importe o projeto em uma IDE como **IntelliJ IDEA**, **Eclipse** ou **VS Code** com suporte ao Java.
-
-3. Acesse uma das pastas e execute a respectiva classe `Main.java` para testar os exemplos.
-
 ## 🚀 Tecnologias Utilizadas
 
 - Java 11+
